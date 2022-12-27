@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BundleConsoleApp/obj
+/BundleConsoleApp.Test/bin/Debug/net6.0
+/BundleConsoleApp.Test/obj
